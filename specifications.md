@@ -1,7 +1,7 @@
 # Specifikācija
 
 ## Risinājuma apraksts
-Risinājums palīdzēs skolēniem veiksmīgāk pabeigt skolu.
+Risinājums palīdzēs skolēniem veiksmīgāk pabeigt skolu. *Knowledge tracker*
 
 ## Tehniskas specifikācijas
 Izstrādē izmantosim sekojošāš tehnoloģijas:
